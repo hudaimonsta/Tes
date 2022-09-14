@@ -1,5 +1,5 @@
 Ini adalah latihan mengunakan GitHub 
   - dalam rangka belajar WD
   - dan SYNRGY Academy
-  - Belajar UI/UX
   - Edit lagi pada repo
+  - Menyelesaikan SYNRG Academy
