@@ -1,6 +1,7 @@
 Uji Coba
   - Meledakkan nuklir di Simpang lima
-  - Membakar area Gunung Pati
-  - Membuat bom hydrogen 
+  * Menevakuasi semua orang
+  - Membuat bom hydrogen
+  *Mencari tempat perakitan
   - Menggali trowongan Godzilla 
   - Mengadakan perang besar
